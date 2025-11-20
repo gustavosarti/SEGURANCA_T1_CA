@@ -1,0 +1,8 @@
+# Ignorar chaves privadas (Segurança)
+*.key
+
+# Ignorar arquivos de sistema/IDE
+.DS_Store
+.idea/
+__pycache__/
+*.pyc
